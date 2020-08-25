@@ -1,5 +1,7 @@
 # proxy-server
 
+To start, run ```npm start```
+
 ## Product Overview
 
 Set this to run on port 3001
