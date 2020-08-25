@@ -1,6 +1,6 @@
 # proxy-server
 
-To start, run ```npm start```
+To start, run ```npm run start```
 
 ## Product Overview
 
